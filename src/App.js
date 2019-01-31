@@ -30,14 +30,16 @@ if ('speechSynthesis' in window) {
 }
 
 function speak(text) {
-  var msg = new SpeechSynthesisUtterance();
-  var voice = speechSynthesis.getVoices().find(voice => voice.name === "Trinoids");
-  msg.voice = voice;
-  msg.rate = 8.5 / 10;
-  msg.pitch = 0;
-  msg.text = text;
-  
-  speechSynthesis.speak(msg);
+  if ('speechSynthesis' in window) {
+    var msg = new SpeechSynthesisUtterance();
+    var voice = speechSynthesis.getVoices().find(voice => voice.name === "Trinoids");
+    msg.voice = voice;
+    msg.rate = 8.5 / 10;
+    msg.pitch = 0;
+    msg.text = text;
+    
+    speechSynthesis.speak(msg);
+  }
 }
 
 function App() {
