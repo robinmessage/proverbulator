@@ -1,13 +1,13 @@
 {
   "main.css": "/proverbulator/static/css/main.a108195c.chunk.css",
-  "main.js": "/proverbulator/static/js/main.117453c0.chunk.js",
-  "main.js.map": "/proverbulator/static/js/main.117453c0.chunk.js.map",
+  "main.js": "/proverbulator/static/js/main.1f8fc548.chunk.js",
+  "main.js.map": "/proverbulator/static/js/main.1f8fc548.chunk.js.map",
   "static/js/1.c906625a.chunk.js": "/proverbulator/static/js/1.c906625a.chunk.js",
   "static/js/1.c906625a.chunk.js.map": "/proverbulator/static/js/1.c906625a.chunk.js.map",
   "runtime~main.js": "/proverbulator/static/js/runtime~main.4ae53aa8.js",
   "runtime~main.js.map": "/proverbulator/static/js/runtime~main.4ae53aa8.js.map",
   "static/css/main.a108195c.chunk.css.map": "/proverbulator/static/css/main.a108195c.chunk.css.map",
   "index.html": "/proverbulator/index.html",
-  "precache-manifest.14f02f39ae3984aa95b49940d1eff9c6.js": "/proverbulator/precache-manifest.14f02f39ae3984aa95b49940d1eff9c6.js",
+  "precache-manifest.b6d307e9da7ebc24e33774af01cb0cee.js": "/proverbulator/precache-manifest.b6d307e9da7ebc24e33774af01cb0cee.js",
   "service-worker.js": "/proverbulator/service-worker.js"
 }

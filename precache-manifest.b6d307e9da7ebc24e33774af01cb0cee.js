@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "117453c0b3a46d43701b",
+    "revision": "1f8fc548991b5b1f234d",
     "url": "/proverbulator/static/css/main.a108195c.chunk.css"
   },
   {
-    "revision": "117453c0b3a46d43701b",
-    "url": "/proverbulator/static/js/main.117453c0.chunk.js"
+    "revision": "1f8fc548991b5b1f234d",
+    "url": "/proverbulator/static/js/main.1f8fc548.chunk.js"
   },
   {
     "revision": "c906625a63c954e5758c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/proverbulator/static/js/runtime~main.4ae53aa8.js"
   },
   {
-    "revision": "d5344bc93ca8de10a753975b60c864ed",
+    "revision": "fafeb24900773cead331ed40e8af48c8",
     "url": "/proverbulator/index.html"
   }
 ];

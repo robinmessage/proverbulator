@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/proverbulator/precache-manifest.14f02f39ae3984aa95b49940d1eff9c6.js"
+  "/proverbulator/precache-manifest.b6d307e9da7ebc24e33774af01cb0cee.js"
 );
 
 workbox.clientsClaim();
